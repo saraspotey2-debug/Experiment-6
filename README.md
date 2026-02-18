@@ -58,5 +58,28 @@ Study of Conditional Statements in python.
 10. To print the incremented date using elif and else statement.
 11. End.
 # Algorithm- 6.8
-1. 
-13. 
+1. Start
+2. To take input from the user.
+3. To print Vowel if vowel in ch using if statement.
+4. Else print Consonant using else statement.
+5. End.
+# Algorithm- 6.9
+1. Start.
+2. To take the input from the user.
+3. If basic<=10000 then calculates hra and da using if statement.
+4. If basic<=20000 then calculates hra and da using elif statement.
+5. else calcultes hra and da using else statement.
+6. To calculate gross by the formula.
+7. To print the gross salary.
+8. End.
+# Algorithm- 6.10
+1. Start
+2. To take the input from the user.
+3. If income<=250000 then no tax added using if statement.
+4. If income<=50000 then 5 percent tax added using elif statement.
+5. If income<=1000000 then 20 percent tax added using elif statement.
+6. Else 30 percent tax added using else statement.
+7. To display the result.
+8. End.
+# Conclusion 
+Conditional statements are a fundamental concept in Python programming. They help the program to make decisions based on conditions, making the code dynamic and intelligent.
