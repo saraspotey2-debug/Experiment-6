@@ -53,7 +53,7 @@ Study of Conditional Statements in python.
 5. To find maximum days in month using if statement which sets maximum days as 31.
 6. To check if month has 30 days and sets maximum days as 30 using elif statement.
 7. To check if the year is a leap year using elif statement or using else statement if it has 28 days only.
-8. To print Date is invalid using if statement if month other tan 1-12.
+8. To print Date is invalid using if statement if month other than 1-12.
 9. To print Date is invalid uisng elif statement if date less than 1 and greater then max1.
 10. To print the incremented date using elif and else statement.
 11. End.
