@@ -41,9 +41,13 @@ Study of Conditional Statements in python.
 8. End.
 # Algorithm-6.6
 1.Start.
+
 2.To take the input(year) from the user.
+
 3.To print leap Year if year is divisible by 400 or divisible by 4 but not by 100 using if statement.
+
 4.Else print Not a Leap Year using else statement. 
+
 5.End.
 # Algorithm-6.7 
 1. Start.
