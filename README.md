@@ -68,7 +68,7 @@ Study of Conditional Statements in python.
 2. To take the input from the user.
 3. If basic<=10000 then calculates hra and da using if statement.
 4. If basic<=20000 then calculates hra and da using elif statement.
-5. else calcultes hra and da using else statement.
+5. Else calculates hra and da using else statement.
 6. To calculate gross by the formula.
 7. To print the gross salary.
 8. End.
