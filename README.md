@@ -8,8 +8,8 @@ Study of Conditional Statements in python.
 4. If-else- It executes one block if the condition is True and another block if it is False.
 5. Else- The else statement in Python is used with conditional statements to define a block of code that runs when the condition in the if (or elif) statement is False.
 6. Elif statement- The elif statement in Python stands for “else if”. It is used to check multiple conditions one after another.When the first if condition is False, Python checks the elif condition. If that is also False, it continues checking the next elif, and so on.
-7. Logical Operators used are-and → True if both conditions are True, or → True if at least one condition is True and not → Reverses the result.
-8. Comparison Operators Used are- ==	Equal to, !=	Not equal, >	Greater than, <	Less than, >=	Greater than or equal and <=	Less than or equal.
+7. Logical operators used are-and → True if both conditions are True, or → True if at least one condition is True and not → Reverses the result.
+8. Comparison operators used are- ==	Equal to, !=	Not equal, >	Greater than, <	Less than, >=	Greater than or equal and <=	Less than or equal.
 9. Nested if statement- An if inside another if.
 10. Indentation in Python-In Python, indentation (spaces before code) is very important.It defines the block of code under a condition.
 11. Split- In Python, split() is a string method used to break a string into smaller parts (substrings) based on a separator.
