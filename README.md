@@ -3,7 +3,7 @@
 Study of Conditional Statements in python.
 # Theory
 1. Conditional statements in Python are used to control the flow of execution of a program. They allow the program to make decisions and execute certain blocks of code based on conditions.
-2. Conditional statements- Conditional statements check whether a condition is True or False and execute code accordingly.In Python, the main conditional statements are:if,if-else,if-elif-else and nested if.
+2. Conditional statements- Conditional statements check whether a condition is True or False and execute code accordingly.In Python, the main conditional statements are: if, if-else, if-elif-else and nested if.
 3. If statement- The if statement executes a block of code only if the condition is True.
 4. If-else- It executes one block if the condition is True and another block if it is False.
 5. Else- The else statement in Python is used with conditional statements to define a block of code that runs when the condition in the if (or elif) statement is False.
